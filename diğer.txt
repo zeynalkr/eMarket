@@ -1,2 +1,6 @@
 yazılmadı
+<<<<<<< HEAD
 yazıldıııı.
+=======
+değişmiş galiba . . :)
+>>>>>>> 629dc6e6d152d98b0fe669b4f8624f47d97a527e
